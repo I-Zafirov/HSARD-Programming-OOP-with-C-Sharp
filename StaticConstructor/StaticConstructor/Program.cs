@@ -18,9 +18,13 @@ namespace StaticConstructor
         {
             return mSqrtValues[aValue];
         }
-        static void Main(string[] args)
+         class Program
         {
-            Console.WriteLine(GetSqrt(1000));
+            static void Main(string[] args)
+            {
+                Console.WriteLine(GetSqrt(1000));
+            }
         }
     }
 }
+
