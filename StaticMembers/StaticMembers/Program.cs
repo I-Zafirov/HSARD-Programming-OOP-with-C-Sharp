@@ -5,7 +5,7 @@ namespace StaticMembers
     class Bulgaria
     {
         private static int mNumberOfCities = 267; //static field
-        public static int NumberOfCities; //static property
+        public static int NumberOfCities //static property
         {
             get
             {
