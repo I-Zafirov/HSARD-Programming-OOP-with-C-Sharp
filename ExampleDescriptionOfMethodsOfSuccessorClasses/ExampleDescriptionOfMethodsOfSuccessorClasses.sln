@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleDescriptionOfMethodsOfSuccessorClasses", "ExampleDescriptionOfMethodsOfSuccessorClasses\ExampleDescriptionOfMethodsOfSuccessorClasses.csproj", "{3623632E-4309-4B49-B04A-BC9CC158D71E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3623632E-4309-4B49-B04A-BC9CC158D71E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3623632E-4309-4B49-B04A-BC9CC158D71E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3623632E-4309-4B49-B04A-BC9CC158D71E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3623632E-4309-4B49-B04A-BC9CC158D71E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED6CCE2F-53BE-49A4-9009-2CA5F300DE1D}
+	EndGlobalSection
+EndGlobal
