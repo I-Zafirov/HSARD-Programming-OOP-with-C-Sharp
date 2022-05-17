@@ -1,0 +1,14 @@
+C:\Users\ivoom\source\repos\StaticConstructor\StaticConstructor\bin\Debug\netcoreapp3.1\StaticConstructor.exe
+C:\Users\ivoom\source\repos\StaticConstructor\StaticConstructor\bin\Debug\netcoreapp3.1\StaticConstructor.deps.json
+C:\Users\ivoom\source\repos\StaticConstructor\StaticConstructor\bin\Debug\netcoreapp3.1\StaticConstructor.runtimeconfig.json
+C:\Users\ivoom\source\repos\StaticConstructor\StaticConstructor\bin\Debug\netcoreapp3.1\StaticConstructor.runtimeconfig.dev.json
+C:\Users\ivoom\source\repos\StaticConstructor\StaticConstructor\bin\Debug\netcoreapp3.1\StaticConstructor.dll
+C:\Users\ivoom\source\repos\StaticConstructor\StaticConstructor\bin\Debug\netcoreapp3.1\StaticConstructor.pdb
+C:\Users\ivoom\source\repos\StaticConstructor\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.csproj.AssemblyReference.cache
+C:\Users\ivoom\source\repos\StaticConstructor\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivoom\source\repos\StaticConstructor\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.AssemblyInfoInputs.cache
+C:\Users\ivoom\source\repos\StaticConstructor\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.AssemblyInfo.cs
+C:\Users\ivoom\source\repos\StaticConstructor\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.csproj.CoreCompileInputs.cache
+C:\Users\ivoom\source\repos\StaticConstructor\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.dll
+C:\Users\ivoom\source\repos\StaticConstructor\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.pdb
+C:\Users\ivoom\source\repos\StaticConstructor\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.genruntimeconfig.cache
