@@ -1,0 +1,14 @@
+C:\Users\ivoom\source\repos\ExampleProperties\ExampleProperties\bin\Debug\netcoreapp3.1\ExampleProperties.exe
+C:\Users\ivoom\source\repos\ExampleProperties\ExampleProperties\bin\Debug\netcoreapp3.1\ExampleProperties.deps.json
+C:\Users\ivoom\source\repos\ExampleProperties\ExampleProperties\bin\Debug\netcoreapp3.1\ExampleProperties.runtimeconfig.json
+C:\Users\ivoom\source\repos\ExampleProperties\ExampleProperties\bin\Debug\netcoreapp3.1\ExampleProperties.runtimeconfig.dev.json
+C:\Users\ivoom\source\repos\ExampleProperties\ExampleProperties\bin\Debug\netcoreapp3.1\ExampleProperties.dll
+C:\Users\ivoom\source\repos\ExampleProperties\ExampleProperties\bin\Debug\netcoreapp3.1\ExampleProperties.pdb
+C:\Users\ivoom\source\repos\ExampleProperties\ExampleProperties\obj\Debug\netcoreapp3.1\ExampleProperties.csproj.AssemblyReference.cache
+C:\Users\ivoom\source\repos\ExampleProperties\ExampleProperties\obj\Debug\netcoreapp3.1\ExampleProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivoom\source\repos\ExampleProperties\ExampleProperties\obj\Debug\netcoreapp3.1\ExampleProperties.AssemblyInfoInputs.cache
+C:\Users\ivoom\source\repos\ExampleProperties\ExampleProperties\obj\Debug\netcoreapp3.1\ExampleProperties.AssemblyInfo.cs
+C:\Users\ivoom\source\repos\ExampleProperties\ExampleProperties\obj\Debug\netcoreapp3.1\ExampleProperties.csproj.CoreCompileInputs.cache
+C:\Users\ivoom\source\repos\ExampleProperties\ExampleProperties\obj\Debug\netcoreapp3.1\ExampleProperties.dll
+C:\Users\ivoom\source\repos\ExampleProperties\ExampleProperties\obj\Debug\netcoreapp3.1\ExampleProperties.pdb
+C:\Users\ivoom\source\repos\ExampleProperties\ExampleProperties\obj\Debug\netcoreapp3.1\ExampleProperties.genruntimeconfig.cache
